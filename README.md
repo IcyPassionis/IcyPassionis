@@ -1,16 +1,19 @@
-## Hi there 👋
+## IcyPassionis🍓
 
-<!--
-**IcyPassionis/IcyPassionis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am IcyPassionis a solo game developer.
+- I also compose *music* in my free time.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently focused on Lively and Unnamed game project.
+
+I also work on:
+- Med Tracker: [`Med Tracker Github Page`](https://github.com/IcyPassionis/Med-Tracker)
+- Monolith Map tool: [`Monolith Github Page`](https://github.com/404alya/Monolith)
+- Tutku's Lite Game Engine: [`Tutku's Lite Game Engine`](https://github.com/IcyPassionis/TutkuLiteEngine)
+
+## My Other Accounts
+
+- X Account: [`icypassionis`](https://x.com/icypassionis)
+- My Personal Website/Portfolio: https://icypassionis.github.io/
+- itch.io Account: https://icypassionis.itch.io/
