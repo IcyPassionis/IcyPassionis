@@ -14,6 +14,8 @@ I also work on:
 
 ## My Other Accounts
 
+- Youtube(Music account): https://www.youtube.com/@IcyPassionis
+- Soundcloud: https://soundcloud.com/icypassionis
 - X Account: [`icypassionis`](https://x.com/icypassionis)
 - My Personal Website/Portfolio: https://icypassionis.github.io/
 - itch.io Account: https://icypassionis.itch.io/
